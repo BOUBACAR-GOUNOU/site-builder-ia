@@ -1,0 +1,4 @@
+ollama
+docker
+requests
+pydantic
